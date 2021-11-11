@@ -1,0 +1,24 @@
+PODS:
+  - DGElasticPullToRefresh (1.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - Windless (0.1.5)
+
+DEPENDENCIES:
+  - DGElasticPullToRefresh
+  - IQKeyboardManagerSwift
+  - Windless (~> 0.1.5)
+
+SPEC REPOS:
+  trunk:
+    - DGElasticPullToRefresh
+    - IQKeyboardManagerSwift
+    - Windless
+
+SPEC CHECKSUMS:
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  Windless: c6b7d63ac3a0c7e6b241e316650d4605abf71894
+
+PODFILE CHECKSUM: e24207c69aba51ade2e5c617310458942d87e55e
+
+COCOAPODS: 1.10.2
